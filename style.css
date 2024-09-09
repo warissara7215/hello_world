@@ -8,11 +8,12 @@ h1 {
 }
  
 p {
-	margin: 40px;
+	margin: 30px;
 }
  
 img {
 	width: 500px;
+	margin: 20px;
 }
  
 header nav {
