@@ -19,32 +19,13 @@ img {
 header nav {
 	padding: 10px;
 	background-color:#e4add4;
-	display: flex;s
-	flex-direction: column;
+	display: flex;
+	flex-direction: row;
 }
  
 nav div {
 	color: white;
 	margin: 0 20px;
-}
- 
-.con{
-	padding: 10px 0px;
-	background-color:darkslategray ;
-	text-align: center;
-	margin: 0;
-	color: white;
-}
- 
-.con2 {
-	background-color: dimgray;
-	display: flex;
-	justify-content: center;
-	flex-direction: row;
-}
- 
-div p {
-	color: white;
 }
 
 footer {
@@ -52,4 +33,10 @@ footer {
 	color: white;
 	padding: 20px 0px;
 	text-align: center
+}
+
+.pp {
+	background-color: #f2cde8;
+	margin: 0;
+	padding: 50px;
 }
