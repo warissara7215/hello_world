@@ -12,13 +12,12 @@ p {
 }
  
 img {
-	width: 200px;
-	margin-left: 40%;
+	width: 500px;
 }
  
-nav {
+header nav {
 	padding: 10px;
-	background-color: darkslategray;
+	background-color:#e4add4;
 	display: flex;s
 	flex-direction: column;
 }
