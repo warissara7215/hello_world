@@ -1,7 +1,55 @@
-h1	{
-	color: blue;
+* {margin: 0;}
+ 
+h1 {
+	background-color: dimgray;
+	color: white;
+	padding: 20px 0px;
+	text-align: center;
+}
+ 
+p {
+	margin: 40px;
+}
+ 
+img {
+	width: 200px;
+	margin-left: 40%;
+}
+ 
+nav {
+	padding: 10px;
+	background-color: darkslategray;
+	display: flex;s
+	flex-direction: column;
+}
+ 
+nav div {
+	color: white;
+	margin: 0 20px;
+}
+ 
+.con{
+	padding: 10px 0px;
+	background-color:darkslategray ;
+	text-align: center;
+	margin: 0;
+	color: white;
+}
+ 
+.con2 {
+	background-color: dimgray;
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+}
+ 
+div p {
+	color: white;
 }
 
-p {
-	text-align: center;
+footer {
+	background-color: dimgray;
+	color: white;
+	padding: 20px 0px;
+	text-align: center
 }
