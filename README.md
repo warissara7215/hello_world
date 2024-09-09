@@ -6,3 +6,4 @@ This is my first repository!
 
 - R. Promkam
 - W. Karnsasom
+- L. Lion
